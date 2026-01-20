@@ -48,15 +48,6 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 | Tests unitaires           | Vérification des fonctionnalités    | Enzo        | Sprint 2 | 25/01 | 27/01 |
 | Documentation utilisateur | Procédure d’utilisation             | Luc         | Sprint 2 | 25/01 | 28/01 |
 
-## Exemples de Cartes de Visite
-
-Voici des exemples de cartes de visite générées par l'application :
-
-![Carte Charles Feuntun](charles_feuntun_card.png)
-![Carte Enzo Dufour](enzo_dufour_card.png)
-![Carte Luc Tournie](luc_tournie_card.png)
-![Carte Noa Doumbia](noa_doumbia_card.png)
-
 ## Répartition des rôles
 
 ### 1. Chef de projet / Scrum Master - Doumbia Noa
@@ -92,6 +83,11 @@ Voici des exemples de cartes de visite générées par l'application :
 | **Project (V2)** | Vue Kanban pour le quotidien et vue Roadmap pour la planification. |
 
 ## Contact 
+
+![Carte Charles Feuntun](charles_feuntun_card.png)
+![Carte Enzo Dufour](enzo_dufour_card.png)
+![Carte Luc Tournie](luc_tournie_card.png)
+![Carte Noa Doumbia](noa_doumbia_card.png)
 
 ---
 
