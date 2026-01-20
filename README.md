@@ -82,6 +82,8 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 | **Milestones** | Regroupement des issues par versions ou sprints. |
 | **Project (V2)** | Vue Kanban pour le quotidien et vue Roadmap pour la planification. |
 
+## Contact 
+
 ---
 
 > [!IMPORTANT]
