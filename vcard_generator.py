@@ -177,44 +177,44 @@ if __name__ == "__main__":
         {
             "nom": "Dufour",
             "prenom": "Enzo",
-            "metier": "Etudiant en CyberSécurité",
+            "metier": "Documentaliste",
             "telephone": "+33 5 31 53 05 09",
             "email": "contact@zebinet.tech",
             "adresse": "Rodez, France",
             "site": "zebinet.tech",
             "linkedin": "linkedin.com/in/zebinet-tech",
-            "logo_path": "logo.jpeg"
+            "logo_path": "logo.png"
         },
         {
             "nom": "Tournie",
             "prenom": "Luc",
-            "metier": "Etudiant en CyberSécurité",
+            "metier": "Développeur Python",
             "telephone": "+33 6 22 50 38 12",
             "email": "contact@luc-tournie.fr",
             "adresse": "Rodez, France",
             "site": "luc-tournie.fr",
             "linkedin": "linkedin.com/in/luc-tourni%C3%A9-862ba0224/",
-            "logo_path": "logo.jpeg"
+            "logo_path": "logo.png"
         },
         {
             "nom": "Doumbia",
             "prenom": "Noa",
-            "metier": "Etudiant en CyberSécurité",
+            "metier": "Chef de projet",
             "telephone": "+33 7 11 22 33 44",
             "email": "lycee@carnus.fr",
             "adresse": "Rodez, France",
             "site": "carnus.fr",
-            "logo_path": "logo.jpeg"
+            "logo_path": "logo.png"
         },
         {
             "nom": "Feuntun",
             "prenom": "Charles",
-            "metier": "Etudiant en CyberSécurité",
-            "telephone": "+33 7 11 22 33 44",
+            "metier": "Développeur Python",
+            "telephone": "+33 6 89 63 22 42",
             "email": "lycee@carnus.fr",
             "adresse": "Rodez, France",
             "site": "carnus.fr",
-            "logo_path": "logo.jpeg"
+            "logo_path": "logo.png"
         }
     ]
     
