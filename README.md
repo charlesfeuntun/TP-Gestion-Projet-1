@@ -70,23 +70,6 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 * Fiche de recette
 * Mini-manuel utilisateur
 
-# 🚀 Projet Test : Pilotage par Roadmap & Issues
-
-## 📝 Description du projet
-Ce projet est un environnement de test dédié à l'expérimentation des outils de gestion de projet de GitHub. L'idée centrale est de valider un flux de travail où la **gouvernance technique** (via les Issues) alimente directement la **vision stratégique** (via la Roadmap).
-
-L'objectif est de démontrer comment une équipe peut maintenir une synchronisation parfaite entre le développement quotidien et les objectifs à long terme sans quitter l'écosystème GitHub.
-
----
-
-## 🎯 Objectifs du test
-
-* **Traçabilité complète :** Lier chaque modification du code à une `Issue` spécifique pour comprendre le "pourquoi" derrière chaque "quoi".
-* **Pilotage par la Roadmap :** Utiliser les vues chronologiques de *GitHub Projects* pour visualiser l'avancement des grands chantiers.
-* **Standardisation :** Tester des modèles d'Issues (Issue Templates) pour garantir la qualité des informations remontées.
-* **Automatisation du Workflow :** Configurer les triggers pour que le statut de la Roadmap se mette à jour automatiquement selon l'activité des branches.
-
----
 
 ## 🛠️ Structure du test
 
